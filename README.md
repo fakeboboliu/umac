@@ -72,7 +72,7 @@ func main() {
 
 ## How to use in ssh
 
-A patch of golang.org/x/crypto/ssh is needed, I'll provide a patch version later.
+A patch of golang.org/x/crypto/ssh is needed, [here](https://github.com/fakeboboliu/xssh) is an example and drop-in replacement.
 
 ## Why
 
